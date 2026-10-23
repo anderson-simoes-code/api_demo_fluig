@@ -1,0 +1,17 @@
+[
+  {"codigo":"F001","razaoSocial":"DEMO Alfa Tecnologia Ltda","categoria":"Tecnologia","cidade":"Joinville","uf":"SC","email":"fornecedor01@example.com","homologado":true},
+  {"codigo":"F002","razaoSocial":"DEMO Beta Materiais de Escritorio Ltda","categoria":"Escritorio","cidade":"Blumenau","uf":"SC","email":"fornecedor02@example.com","homologado":true},
+  {"codigo":"F003","razaoSocial":"DEMO Gama Logistica Ltda","categoria":"Logistica","cidade":"Curitiba","uf":"PR","email":"fornecedor03@example.com","homologado":false},
+  {"codigo":"F004","razaoSocial":"DEMO Delta Manutencao Ltda","categoria":"Manutencao","cidade":"Florianopolis","uf":"SC","email":"fornecedor04@example.com","homologado":true},
+  {"codigo":"F005","razaoSocial":"DEMO Epsilon Alimentacao Ltda","categoria":"Alimentacao","cidade":"Itajai","uf":"SC","email":"fornecedor05@example.com","homologado":false},
+  {"codigo":"F006","razaoSocial":"DEMO Zeta Equipamentos Ltda","categoria":"Tecnologia","cidade":"Sao Paulo","uf":"SP","email":"fornecedor06@example.com","homologado":true},
+  {"codigo":"F007","razaoSocial":"DEMO Eta Limpeza Ltda","categoria":"Servicos","cidade":"Jaragua do Sul","uf":"SC","email":"fornecedor07@example.com","homologado":true},
+  {"codigo":"F008","razaoSocial":"DEMO Teta Consultoria Ltda","categoria":"Servicos","cidade":"Porto Alegre","uf":"RS","email":"fornecedor08@example.com","homologado":false},
+  {"codigo":"F009","razaoSocial":"DEMO Iota Moveis Ltda","categoria":"Escritorio","cidade":"Bento Goncalves","uf":"RS","email":"fornecedor09@example.com","homologado":true},
+  {"codigo":"F010","razaoSocial":"DEMO Kappa Transporte Ltda","categoria":"Logistica","cidade":"Londrina","uf":"PR","email":"fornecedor10@example.com","homologado":true},
+  {"codigo":"F011","razaoSocial":"DEMO Lambda Redes Ltda","categoria":"Tecnologia","cidade":"Campinas","uf":"SP","email":"fornecedor11@example.com","homologado":false},
+  {"codigo":"F012","razaoSocial":"DEMO Mi Seguranca Ltda","categoria":"Servicos","cidade":"Joinville","uf":"SC","email":"fornecedor12@example.com","homologado":true},
+  {"codigo":"F013","razaoSocial":"DEMO Ni Pecas Ltda","categoria":"Manutencao","cidade":"Ponta Grossa","uf":"PR","email":"fornecedor13@example.com","homologado":true},
+  {"codigo":"F014","razaoSocial":"DEMO Xi Embalagens Ltda","categoria":"Suprimentos","cidade":"Caxias do Sul","uf":"RS","email":"fornecedor14@example.com","homologado":false},
+  {"codigo":"F015","razaoSocial":"DEMO Omicron Suprimentos Ltda","categoria":"Suprimentos","cidade":"Chapeco","uf":"SC","email":"fornecedor15@example.com","homologado":true}
+]

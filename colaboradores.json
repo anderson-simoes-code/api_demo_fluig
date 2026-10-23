@@ -1,0 +1,18 @@
+[
+  {"matricula":"001","nome":"Ana Souza","departamento":"TI","cargo":"Analista de Sistemas","email":"ana.souza@example.com","ativo":true},
+  {"matricula":"002","nome":"Bruno Lima","departamento":"RH","cargo":"Analista de RH","email":"bruno.lima@example.com","ativo":true},
+  {"matricula":"003","nome":"Carla Mendes","departamento":"Financeiro","cargo":"Analista Financeiro","email":"carla.mendes@example.com","ativo":true},
+  {"matricula":"004","nome":"Diego Martins","departamento":"Compras","cargo":"Comprador","email":"diego.martins@example.com","ativo":true},
+  {"matricula":"005","nome":"Elisa Rocha","departamento":"Comercial","cargo":"Executiva de Vendas","email":"elisa.rocha@example.com","ativo":true},
+  {"matricula":"006","nome":"Felipe Costa","departamento":"TI","cargo":"Analista de Suporte","email":"felipe.costa@example.com","ativo":true},
+  {"matricula":"007","nome":"Gabriela Alves","departamento":"RH","cargo":"Assistente de RH","email":"gabriela.alves@example.com","ativo":false},
+  {"matricula":"008","nome":"Henrique Santos","departamento":"Financeiro","cargo":"Coordenador Financeiro","email":"henrique.santos@example.com","ativo":true},
+  {"matricula":"009","nome":"Isabela Ribeiro","departamento":"Compras","cargo":"Analista de Compras","email":"isabela.ribeiro@example.com","ativo":true},
+  {"matricula":"010","nome":"Joao Pereira","departamento":"Comercial","cargo":"Assistente Comercial","email":"joao.pereira@example.com","ativo":false},
+  {"matricula":"011","nome":"Laura Fernandes","departamento":"TI","cargo":"Desenvolvedora","email":"laura.fernandes@example.com","ativo":true},
+  {"matricula":"012","nome":"Marcos Oliveira","departamento":"RH","cargo":"Coordenador de RH","email":"marcos.oliveira@example.com","ativo":true},
+  {"matricula":"013","nome":"Natalia Barros","departamento":"Financeiro","cargo":"Assistente Financeiro","email":"natalia.barros@example.com","ativo":false},
+  {"matricula":"014","nome":"Pedro Araujo","departamento":"Compras","cargo":"Coordenador de Compras","email":"pedro.araujo@example.com","ativo":true},
+  {"matricula":"015","nome":"Renata Dias","departamento":"Comercial","cargo":"Gerente Comercial","email":"renata.dias@example.com","ativo":true}
+]
+
